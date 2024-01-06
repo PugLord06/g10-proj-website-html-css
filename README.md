@@ -1,2 +1,2 @@
 # g10-proj-website-html-css
- My Grade 10 Project
+ My Grade 10 Website Project
